@@ -1,0 +1,5 @@
+config SHIELD_GLOVE43TB_R
+    def_bool $(shields_list_contains,glove43tb_R)
+
+config SHIELD_GLOVE43TB_L
+    def_bool $(shields_list_contains,glove43tb_L)

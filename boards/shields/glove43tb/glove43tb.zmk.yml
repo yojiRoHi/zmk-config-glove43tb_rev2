@@ -1,0 +1,8 @@
+file_format: "1"
+id: glove43tb
+name: glove43tb
+type: shield
+url: https://github.com/keebkuro/zmk-config-glove43tb
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

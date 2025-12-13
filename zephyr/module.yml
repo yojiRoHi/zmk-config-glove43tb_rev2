@@ -1,0 +1,4 @@
+name: glove43tb
+build:
+  settings:
+    board_root: .
