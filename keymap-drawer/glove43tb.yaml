@@ -39,9 +39,9 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - {t: SPACE, h: LSHFT}
-  - {t: SPACE, h: NUM}
-  - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
-  - BACKSPACE
+  - {t: SPACE, h: LCTRL}
+  - {t: ENTER, h: NUM}
+  - {t: ENTER, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
@@ -85,7 +85,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   NUM:
@@ -127,8 +127,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ',', type: held}
-  - {t: ▽, type: trans}
+  - ','
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - .
@@ -172,7 +172,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
