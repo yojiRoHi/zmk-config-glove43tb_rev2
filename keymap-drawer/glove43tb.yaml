@@ -313,3 +313,5 @@ combos:
   k: TAB
 - p: [11, 12]
   k: ESC
+- p: [23, 24]
+  k: Alt+TAB
