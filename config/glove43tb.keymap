@@ -53,6 +53,11 @@
             bindings = <&kp ESC>;
             key-positions = <11 12>;
         };
+
+        atab {
+            bindings = <&kp LA(TAB)>;
+            key-positions = <23 24>;
+        };
     };
 
     macros {
