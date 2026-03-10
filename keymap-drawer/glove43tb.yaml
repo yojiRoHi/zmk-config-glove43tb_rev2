@@ -39,10 +39,10 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - LCTRL
+  - {t: RET, h: NUM}
+  - {t: RET, h: Ctl+LSHFT}
+  - {t: Ctl+SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
-  - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
-  - BACKSPACE
-  - {t: ENTER, h: FUNCTION}
   - DEL
   FUNCTION:
   - F13
@@ -85,8 +85,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - ''
   NUM:
   - '-'
