@@ -22,7 +22,7 @@ layers:
   - J
   - K
   - L
-  - ''''
+  - BACKSPACE
   - Z
   - X
   - C
@@ -34,14 +34,14 @@ layers:
   - M
   - ','
   - '&mkp MB1'
-  - /
+  - RET
   - {t: ESC, h: ARROW}
   - LEFT WIN
   - LEFT ALT
   - LCTRL
   - {t: RET, h: NUM}
   - {t: RET, h: Ctl+LSHFT}
-  - {t: Ctl+SPACE, h: FUNCTION}
+  - {t: SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
