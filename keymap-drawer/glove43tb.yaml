@@ -315,3 +315,7 @@ combos:
   k: ESC
 - p: [23, 24]
   k: Alt+TAB
+- p: [11, 12, 13]
+  k: FUNCTION
+- p: [7, 8]
+  k: BACKSPACE
