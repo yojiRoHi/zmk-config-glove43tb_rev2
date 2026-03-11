@@ -41,7 +41,7 @@ layers:
   - LCTRL
   - {t: RET, h: NUM}
   - {t: RET, h: Ctl+LSHFT}
-  - {t: SPACE, h: FUNCTION}
+  - FUNCTION
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
