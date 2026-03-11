@@ -40,8 +40,8 @@ layers:
   - LEFT ALT
   - LCTRL
   - {t: RET, h: NUM}
-  - FUNCTION
-  - {t: FUNCTION, h: sticky}
+  - {t: Ctl+LSHFT, h: SPACE}
+  - {t: Ctl+SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
@@ -84,8 +84,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - ''
   NUM:
