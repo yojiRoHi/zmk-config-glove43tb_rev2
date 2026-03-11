@@ -102,6 +102,13 @@
 
             tap-ms = <20>;
         };
+
+        func_tap: func_tap {
+            compatible = "zmk,behavior-tap-dance";
+            label = "FUNC_TAP";
+            #binding-cells = <0>;
+            bindings = <&sl 1>;
+        };
     };
 
     keymap {
