@@ -40,8 +40,8 @@ layers:
   - LEFT ALT
   - LCTRL
   - {t: RET, h: NUM}
-  - {t: FUNCTION, h: sticky}
   - FUNCTION
+  - {t: FUNCTION, h: sticky}
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
