@@ -32,7 +32,7 @@ layers:
   - {t: FUNCTION, h: sticky}
   - N
   - M
-  - {t: LSHFT, h: Alt+TAB}
+  - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
   - RET
   - {t: ESC, h: ARROW}
