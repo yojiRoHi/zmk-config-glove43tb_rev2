@@ -319,3 +319,7 @@ combos:
   k: FUNCTION
 - p: [7, 8]
   k: BACKSPACE
+- p: [18, 19, 20]
+  k: {t: FUNCTION, h: sticky}
+- p: [19, 20]
+  k: RET
