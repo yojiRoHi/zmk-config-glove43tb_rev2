@@ -29,7 +29,7 @@ layers:
   - V
   - B
   - ':'
-  - ;
+  - {t: FUNCTION, h: sticky}
   - N
   - M
   - ','
@@ -73,7 +73,7 @@ layers:
   - F24
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - ''
   - F9
   - F10
@@ -85,7 +85,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ''
   NUM:
