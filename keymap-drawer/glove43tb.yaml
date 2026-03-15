@@ -89,49 +89,49 @@ layers:
   - {t: ▽, type: trans}
   - ''
   NUM:
+  - '`'
   - '|'
   - '?'
-  - LOCKING NUM
   - ''''
   - '"'
-  - Sft+=
+  - Sft+_
   - '7'
   - '8'
   - '9'
   - '0'
-  - '%'
-  - ^
+  - '~'
   - '&'
+  - $
   - ;
   - ':'
   - Ctl+Alt+KP 0
   - _
-  - Sft+8
+  - Sft++
   - '4'
   - '5'
   - '6'
   - '-'
-  - '~'
   - '!'
-  - '@'
   - '#'
-  - $
+  - '%'
+  - '*'
+  - /
   - '='
   - {t: ▽, type: trans}
-  - /
+  - ','
   - '1'
   - '2'
   - '3'
-  - '='
+  - Ctl+.
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ESC, type: held}
-  - {t: ▽, type: trans}
+  - '@'
   - '*'
   - TAB
-  - .
+  - '='
   ARROW:
   - ESCAPE
   - Ctl+Sft+TAB
