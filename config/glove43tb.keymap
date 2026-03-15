@@ -61,7 +61,7 @@
 
         losl1 {
             bindings = <&mo 1>;
-            key-positions = <11 12 13>;
+            key-positions = <12 13>;
         };
 
         bs {
@@ -71,7 +71,7 @@
 
         osl1l2 {
             bindings = <&sl 1>;
-            key-positions = <18 19 20>;
+            key-positions = <18 19>;
         };
 
         returns {
