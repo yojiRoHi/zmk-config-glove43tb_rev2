@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - {t: '&to_layer_0 ESC', h: ARROW}
+  - '&msc MOVE_Y(10)'
   - '-'
   - H
   - J
@@ -28,7 +28,7 @@ layers:
   - C
   - V
   - B
-  - ':'
+  - {t: '&to_layer_0 ESCAPE', h: ARROW}
   - {t: FUNCTION, h: sticky}
   - N
   - M
@@ -148,7 +148,7 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - END
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -160,7 +160,7 @@ layers:
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
