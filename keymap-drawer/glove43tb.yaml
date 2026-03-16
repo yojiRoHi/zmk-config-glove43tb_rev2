@@ -49,7 +49,7 @@ layers:
   - F14
   - F15
   - F16
-  - {t: ▽, type: trans}
+  - KP NLCK
   - ''
   - F1
   - F2
@@ -59,7 +59,7 @@ layers:
   - F18
   - F19
   - F20
-  - {t: ▽, type: trans}
+  - Gui+SPACE
   - {t: ▽, type: trans}
   - ''
   - ''
@@ -82,8 +82,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Alt+TAB
+  - Gui+TAB
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
