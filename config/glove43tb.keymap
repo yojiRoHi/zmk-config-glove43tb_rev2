@@ -70,7 +70,7 @@
         };
 
         osl1l2 {
-            bindings = <&sl 1>;
+            bindings = <&mo 1>;
             key-positions = <18 19>;
         };
 
