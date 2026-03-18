@@ -352,8 +352,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>
@@ -558,8 +557,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>
@@ -769,8 +767,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>
@@ -992,8 +989,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>
@@ -1206,8 +1202,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>
@@ -1414,8 +1409,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>
@@ -1629,8 +1623,7 @@ path.combo {
 <rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
 <a href="#FUNCTION">
 <text x="588" y="88" class="combo tap layer-activator"><tspan style="font-size: 88%">FUNCTION</tspan></text>
-</a><text x="588" y="99" class="combo hold">sticky</text>
-</g>
+</a></g>
 <g class="combo combopos-6">
 <rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
 <text x="645" y="91" class="combo tap">RET</text>

@@ -320,6 +320,6 @@ combos:
 - p: [7, 8]
   k: BACKSPACE
 - p: [18, 19]
-  k: {t: FUNCTION, h: sticky}
+  k: FUNCTION
 - p: [19, 20]
   k: RET
