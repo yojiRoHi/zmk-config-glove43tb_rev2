@@ -117,7 +117,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "MYTAPD00";
             #binding-cells = <0>;
-            bindings = <&kp ESC>, <&mo 2>;
+            bindings = <&mt LSHIFT CAPSLOCK>, <&kp LCTRL>;
 
             tapping-term-ms = <200>;
         };
