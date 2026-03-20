@@ -113,11 +113,11 @@
             tap-ms = <20>;
         };
 
-        myTapdance: myTapdance {
+        myTapd00: myTapd00 {
             compatible = "zmk,behavior-tap-dance";
-            label = "MYTAPDANCE";
+            label = "MYTAPD00";
             #binding-cells = <0>;
-            bindings = <&sl 1>, <&kp SPACE>;
+            bindings = <&kp ESC>, <&mo 3>;
         };
     };
 
@@ -127,7 +127,7 @@
         default_layer {
             bindings = <
 &kp Q      &kp W         &kp E         &kp R      &kp T                                                    &kp Y        &kp U  &kp I            &kp O     &kp P
-&kp A      &kp S         &kp D         &kp F      &kp G      &msc MOVE_Y(10)              &myTapdance      &kp H        &kp J  &kp K            &kp L     &kp BACKSPACE
+&kp A      &kp S         &kp D         &kp F      &kp G      &msc MOVE_Y(10)              &myTapd00        &kp H        &kp J  &kp K            &kp L     &kp BACKSPACE
 &kp Z      &kp X         &kp C         &kp V      &kp B      &lt_to_layer_0 3 ESCAPE      &sl 1            &kp N        &kp M  &mt LSHFT SPACE  &mkp MB1  &kp RET
 &lt 3 ESC  &kp LEFT_WIN  &kp LEFT_ALT  &kp LCTRL  &lt 2 RET  &mt SPACE LC(LSHFT)          &lt 1 LC(SPACE)  &lt 2 SPACE                                    &kp DEL
             >;
