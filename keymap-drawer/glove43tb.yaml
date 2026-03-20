@@ -17,7 +17,7 @@ layers:
   - F
   - G
   - '&msc MOVE_Y(10)'
-  - '&myTapdance'
+  - '&myTapd00'
   - H
   - J
   - K
