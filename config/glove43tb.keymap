@@ -117,7 +117,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "MYTAPD00";
             #binding-cells = <0>;
-            bindings = <&kp ESC>, <&mo 3>;
+            bindings = <&kp ESC>, <&mo 1>;
         };
     };
 
