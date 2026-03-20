@@ -35,7 +35,7 @@ layers:
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
   - RET
-  - {t: ESC, h: ARROW}
+  - '&myTapd00'
   - LEFT WIN
   - LEFT ALT
   - LCTRL
