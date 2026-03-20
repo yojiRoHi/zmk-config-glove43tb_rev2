@@ -40,7 +40,7 @@ layers:
   - LEFT ALT
   - LCTRL
   - {t: RET, h: NUM}
-  - {t: Ctl+LSHFT, h: SPACE}
+  - '&myTd00'
   - {t: Ctl+SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - DEL
