@@ -112,6 +112,13 @@
 
             tap-ms = <20>;
         };
+
+        myTd00: myTd00 {
+            compatible = "zmk,behavior-tap-dance";
+            label = "MYTD00";
+            #binding-cells = <0>;
+            bindings = <&lt 1 LSHFT>, <&sl 1>;
+        };
     };
 
     keymap {
