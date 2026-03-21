@@ -60,7 +60,7 @@
         };
 
         losl1 {
-            bindings = <&mo 1>;
+            bindings = <&sl 1>;
             key-positions = <12 13>;
         };
 
@@ -70,7 +70,7 @@
         };
 
         osl1l2 {
-            bindings = <&mo 1>;
+            bindings = <&sl 1>;
             key-positions = <18 19>;
         };
 
