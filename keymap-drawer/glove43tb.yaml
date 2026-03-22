@@ -41,7 +41,7 @@ layers:
   - LCTRL
   - {t: RET, h: NUM}
   - '&myTd00'
-  - {t: Ctl+SPACE, h: FUNCTION}
+  - {t: SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
