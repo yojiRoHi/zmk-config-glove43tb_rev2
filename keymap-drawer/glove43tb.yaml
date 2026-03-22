@@ -41,7 +41,7 @@ layers:
   - LCTRL
   - {t: RET, h: NUM}
   - '&myTd00'
-  - {t: '&mo 1 LC(SPACE)', h: sticky}
+  - {t: Ctl+SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - DEL
   FUNCTION:
