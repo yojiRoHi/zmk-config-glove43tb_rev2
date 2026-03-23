@@ -34,7 +34,7 @@ layers:
   - M
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
-  - '&msc MOVE_Y(10)'
+  - {t: Ctl+RET, h: SCROLL}
   - {t: '&to_layer_0 F', h: FUNCTION}
   - LEFT WIN
   - LEFT ALT
@@ -254,7 +254,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: '&msc MOVE_Y(10)', type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
