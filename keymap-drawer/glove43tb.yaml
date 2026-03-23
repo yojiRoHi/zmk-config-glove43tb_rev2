@@ -17,12 +17,12 @@ layers:
   - F
   - G
   - '&msc MOVE_Y(10)'
-  - ''
+  - {t: BACKSPACE, h: FUNCTION}
   - H
   - J
   - K
   - L
-  - {t: Ctl+BACKSPACE, h: ARROW}
+  - '&mkp MB2'
   - Z
   - X
   - C
@@ -34,7 +34,7 @@ layers:
   - M
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
-  - {t: ENTER, h: ARROW}
+  - '&mmv MOVE_Y(100)'
   - {t: '&to_layer_0 F', h: FUNCTION}
   - LEFT WIN
   - LEFT ALT
@@ -61,7 +61,7 @@ layers:
   - F20
   - Gui+SPACE
   - {t: ▽, type: trans}
-  - ''
+  - {type: held}
   - ''
   - F5
   - F6
@@ -73,7 +73,7 @@ layers:
   - F24
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - ''
   - F9
   - F10
@@ -154,13 +154,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: '&mkp MB2', type: held}
+  - '&mkp MB2'
   - LEFT SHIFT
   - Gui+Sft+LEFT ARROW
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
