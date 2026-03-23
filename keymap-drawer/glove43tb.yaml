@@ -22,7 +22,7 @@ layers:
   - J
   - K
   - L
-  - BACKSPACE
+  - {t: Ctl+BACKSPACE, h: ARROW}
   - Z
   - X
   - C
@@ -34,7 +34,7 @@ layers:
   - M
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
-  - RET
+  - {t: ENTER, h: ARROW}
   - {t: '&to_layer_0 F', h: FUNCTION}
   - LEFT WIN
   - LEFT ALT
@@ -43,7 +43,7 @@ layers:
   - '&myTd00'
   - {t: SPACE, h: FUNCTION}
   - {t: SPACE, h: NUM}
-  - DEL
+  - {t: DELETE, h: ARROW}
   FUNCTION:
   - F13
   - F14
@@ -154,13 +154,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - LEFT SHIFT
   - Gui+Sft+LEFT ARROW
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
