@@ -34,7 +34,7 @@ layers:
   - M
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
-  - '&mmv MOVE_Y(100)'
+  - '&msc MOVE_Y(10)'
   - {t: '&to_layer_0 F', h: FUNCTION}
   - LEFT WIN
   - LEFT ALT
