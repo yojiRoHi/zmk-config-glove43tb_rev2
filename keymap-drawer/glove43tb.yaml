@@ -28,8 +28,8 @@ layers:
   - C
   - V
   - B
-  - {t: '&to_layer_0 ESCAPE', h: ARROW}
-  - {t: FUNCTION, h: sticky}
+  - Alt+TAB
+  - Gui+TAB
   - N
   - M
   - {t: SPACE, h: LSHFT}
@@ -160,7 +160,7 @@ layers:
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -175,7 +175,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   MOUSE:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
