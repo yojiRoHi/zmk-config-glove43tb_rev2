@@ -29,21 +29,21 @@ layers:
   - V
   - B
   - Alt+TAB
-  - Gui+TAB
+  - {t: FUNCTION, h: sticky}
   - N
   - M
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
   - {t: Ctl+RET, h: SCROLL}
-  - {t: '&to_layer_0 F', h: FUNCTION}
+  - {t: '&to_layer_0 ESCAPE', h: ARROW}
   - LEFT WIN
   - LEFT ALT
   - LCTRL
   - {t: RET, h: NUM}
   - {t: SPACE, h: LSHFT}
-  - {t: SPACE, h: FUNCTION}
+  - {t: RET, h: FUNCTION}
   - {t: SPACE, h: NUM}
-  - {t: DELETE, h: ARROW}
+  - {t: BACKSPACE, h: ARROW}
   FUNCTION:
   - F13
   - F14
@@ -167,15 +167,15 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mmv MOVE_Y(100)'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   MOUSE:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
