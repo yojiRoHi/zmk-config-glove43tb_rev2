@@ -34,7 +34,7 @@ layers:
   - M
   - {t: SPACE, h: LSHFT}
   - '&mkp MB1'
-  - {t: Ctl+RET, h: SCROLL}
+  - {t: RET, h: SCROLL}
   - {t: '&to_layer_0 ESCAPE', h: ARROW}
   - LEFT WIN
   - LEFT ALT
