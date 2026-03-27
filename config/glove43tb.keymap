@@ -119,6 +119,12 @@
             #binding-cells = <0>;
             bindings = <&lt 1 LSHFT>, <&sl 1>;
         };
+
+        myMouseKey: myMouseKey {
+            compatible = "zmk,behavior-mouse-key-press";
+            label = "MYMOUSEKEY";
+            #binding-cells = <1>;
+        };
     };
 
     keymap {
