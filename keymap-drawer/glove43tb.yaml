@@ -105,7 +105,7 @@ layers:
   - ;
   - ':'
   - Ctl+Alt+KP 0
-  - _
+  - BACKSPACE
   - Sft++
   - '4'
   - '5'
