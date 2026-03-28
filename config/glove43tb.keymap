@@ -87,6 +87,13 @@
             bindings = <&to 0 &macro_param_1to1 &kp MACRO_PLACEHOLDER>;
             label = "TO_LAYER_0";
         };
+
+        br_1: br_1 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LS(NUMBER_9) &kp RS(NUMBER_0) &kp LEFT_ARROW>;
+            label = "BR_1";
+        };
     };
 
     behaviors {
