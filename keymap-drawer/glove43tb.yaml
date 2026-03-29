@@ -129,7 +129,7 @@ layers:
   - '&br_1'
   - {t: ESC, type: held}
   - '@'
-  - '*'
+  - KP ASTERISK
   - TAB
   - '='
   ARROW:
