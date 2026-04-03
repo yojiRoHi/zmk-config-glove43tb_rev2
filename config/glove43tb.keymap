@@ -115,6 +115,13 @@
             bindings = <&kp LESS_THAN &kp GREATER_THAN &kp LEFT>;
             label = "BR_4";
         };
+
+        my_new_macro: my_new_macro {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&sl 2>;
+            label = "MY_NEW_MACRO";
+        };
     };
 
     behaviors {
