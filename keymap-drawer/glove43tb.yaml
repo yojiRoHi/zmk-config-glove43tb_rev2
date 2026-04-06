@@ -37,10 +37,10 @@ layers:
   - {t: RET, h: SCROLL}
   - {t: '&to_layer_0 ESCAPE', h: ARROW}
   - LEFT WIN
-  - LEFT ALT
+  - {t: Alt+TAB, h: LSHFT}
   - LCTRL
   - {t: RET, h: NUM}
-  - {t: SPACE, h: LSHFT}
+  - {t: SPACE, h: Ctl+LEFT ALT}
   - {t: RET, h: FUNCTION}
   - {t: SPACE, h: NUM}
   - {t: BACKSPACE, h: ARROW}
