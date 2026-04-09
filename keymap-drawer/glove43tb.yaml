@@ -137,7 +137,7 @@ layers:
   - Ctl+Sft+TAB
   - UP ARROW
   - Ctl+TAB
-  - {t: ▽, type: trans}
+  - '&ind_bat'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -292,7 +292,7 @@ layers:
   - '2'
   - '3'
   - '&ind_con'
-  - ''
+  - '&ind_bat'
   - '&bootloader'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
