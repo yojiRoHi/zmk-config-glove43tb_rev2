@@ -315,11 +315,11 @@ combos:
   k: ESC
 - p: [23, 24]
   k: Alt+TAB
-- p: [12, 13]
+- p: [13, 10]
   k: {t: FUNCTION, h: sticky}
 - p: [7, 8]
   k: BACKSPACE
-- p: [18, 19]
+- p: [18, 21]
   k: {t: FUNCTION, h: sticky}
 - p: [19, 20]
   k: RET
