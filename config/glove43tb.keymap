@@ -59,24 +59,24 @@
             key-positions = <23 24>;
         };
 
-        losl1 {
-            bindings = <&sl 1>;
-            key-positions = <13 10>;
-        };
-
         bs {
             bindings = <&kp BACKSPACE>;
             key-positions = <7 8>;
         };
 
-        osl1l2 {
-            bindings = <&sl 1>;
-            key-positions = <18 21>;
-        };
-
         returns {
             bindings = <&kp RET>;
             key-positions = <19 20>;
+        };
+
+        sl1_1 {
+            bindings = <&sl 1>;
+            key-positions = <10 13>;
+        };
+
+        sl1_2 {
+            bindings = <&sl 1>;
+            key-positions = <18 21>;
         };
     };
 
@@ -161,7 +161,7 @@
             #binding-cells = <1>;
         };
 
-       td_mt: tap_dance_mod_tap {
+        td_mt: tap_dance_mod_tap {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <200>;
