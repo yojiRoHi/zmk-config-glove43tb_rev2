@@ -161,10 +161,11 @@
             #binding-cells = <1>;
         };
 
-        td_mt: tap_dance_mod_tap {
+       td_mt: tap_dance_mod_tap {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            bindings = <&lt WARR LA(GRAVE)>, <&kp LC(SPC)>;
+            tapping-term-ms = <200>;
+            bindings = <&lt 1 LSHIFT>, <&kp LC(SPC)>;
         };
     };
 
