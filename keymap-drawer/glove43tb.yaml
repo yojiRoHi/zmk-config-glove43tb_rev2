@@ -32,7 +32,7 @@ layers:
   - {t: FUNCTION, h: sticky}
   - N
   - M
-  - {t: SPACE, h: LSHFT}
+  - '&mkp MB1'
   - '&mkp MB1'
   - {t: RET, h: SCROLL}
   - {t: '&to_layer_0 ESCAPE', h: ARROW}
